@@ -27,3 +27,5 @@ I occasionally write blog posts about various topics. If you're interested, you 
 If you have any job-related inquiries or just want to say hi, feel free to reach me on [LinkedIn](https://www.linkedin.com/in/joaonotfound/).
 
 Thanks for stopping by! ✌️
+
+![Snake animation](https://github.com/joaonotfound/joaonotfound/blob/output/github-contribution-grid-snake.svg)
